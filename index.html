@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RazerHook Triggerbot</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="https://i.hizliresim.com/mt2593d.png" alt="Razer Logo" class="logo">
+            <h1>RazerHook Triggerbot</h1>
+            <p>Yüksek Performanslı Oyuncu Araçları</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="intro">
+            <div class="intro-content">
+                <h2>Triggerbot Nedir?</h2>
+                <p>RazerHook Triggerbot, oyun performansınızı artıran gelişmiş bir araçtır. Özellikle rekabetçi oyunlarda, doğru vuruşlar yapmanıza yardımcı olur. Bu triggerbot, AutoHotkey (AHK) kullanılarak geliştirilmiştir ve bu sayede kolayca özelleştirilebilir.</p>
+            </div>
+        </section>
+
+        <section class="triggerbot-info">
+            <div class="info-grid">
+                <div class="info-item">
+                    <h2>Özel Özellikler</h2>
+                    <p>Triggerbot sadece Valorant oyununda çalışacak şekilde tasarlanmıştır ve özellikle düşman rengini mor olarak algılar. Bu nedenle, tetikleme yalnızca bu özel renge karşı aktif olacaktır.</p>
+                    <p><strong>Uyarı:</strong> Triggerbot diğer mor tonlarına da duyarlı olabilir ve bu durum yanlışlıkla tetiklemeye neden olabilir. Sarı veya kırmızı gibi diğer renklerde triggerbot çalışmaz.</p>
+                </div>
+                <div class="info-item">
+                    <img src="triggerbot-demo.png" alt="Triggerbot Demo">
+                </div>
+            </div>
+        </section>
+
+        <section class="toggle-info">
+            <h2>Toggle Tuşları</h2>
+            <div class="toggle-grid">
+                <div class="toggle-item">
+                    <div class="toggle-header" onclick="toggleInfo('f1')">
+                        <i class="icon fas fa-keyboard"></i> F1: ON
+                    </div>
+                    <div id="f1" class="toggle-content">
+                        <p>Bu tuş, Triggerbot'u aktif hale getirir ve oyunda kullanıma hazır yapar.</p>
+                    </div>
+                </div>
+                <div class="toggle-item">
+                    <div class="toggle-header" onclick="toggleInfo('f2')">
+                        <i class="icon fas fa-keyboard"></i> F2: HOLD MODE
+                    </div>
+                    <div id="f2" class="toggle-content">
+                        <p>Bu tuş, Triggerbot'un sürekli basılı kalma modunu etkinleştirir. Tuşa basılı tuttuğunuz sürece tetikleme devam eder.</p>
+                    </div>
+                </div>
+                <div class="toggle-item">
+                    <div class="toggle-header" onclick="toggleInfo('f4')">
+                        <i class="icon fas fa-keyboard"></i> F4: OFF
+                    </div>
+                    <div id="f4" class="toggle-content">
+                        <p>Bu tuş, Triggerbot'u kapatır ve oyunda kullanıma son verir.</p>
+                    </div>
+                </div>
+                <div class="toggle-item">
+                    <div class="toggle-header" onclick="toggleInfo('home')">
+                        <i class="icon fas fa-keyboard"></i> HOME: EXIT
+                    </div>
+                    <div id="home" class="toggle-content">
+                        <p>Bu tuş, Triggerbot'u tamamen kapatır ve uygulamadan çıkmanızı sağlar.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="download">
+            <h2>RazerHook Private 2.0 İndirme</h2>
+            <p>Dosyayı indirip bilgisayarınıza yükledikten sonra, AutoHotkey (AHK) ile uyumlu olarak çalışacaktır. Aşağıdaki butona tıklayarak dosyayı indirebilirsiniz.</p>
+            <a href="https://github.com/TeamRazerr/RazerHook/releases/download/RazerHook/RazerHook-Private-2.0.rar" class="download-button">RazerHook Private 2.0 İndir</a>
+        </section>
+
+        <section class="guides">
+            <h2>Kurulum ve Kullanım Kılavuzu</h2>
+            <p>Triggerbot'u kurmak ve kullanmak oldukça basittir. Kılavuzlar ve destek için lütfen <a href="#">Kullanım Kılavuzu</a> bağlantısını ziyaret edin.</p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 RazerHook. Tüm hakları saklıdır.</p>
+            <p><a href="#">İletişim</a> | <a href="#">Yasal Uyarı</a></p>
+        </div>
+    </footer>
+
+    <script>
+        function toggleInfo(id) {
+            var content = document.getElementById(id);
+            content.style.display = content.style.display === 'none' ? 'block' : 'none';
+        }
+    </script>
+</body>
+</html>

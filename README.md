@@ -15,7 +15,7 @@ Bu script, açık kaynaklıdır ve virüs içermez. Güvenliğiniz bizim için �
 ## Kurulum
 
 1. **AutoHotkey Kurulumu**: [AutoHotkey](https://www.autohotkey.com/) uygulamasını bilgisayarınıza indirip yükleyin.
-2. **RazerHook Dosyası**: [RazerHook-Private-2.0.rar](https://github.com/TeamRazerr/RazerHook/releases/download/RazerHook/RazerHook-Private-2.0.rar) dosyasını indirin.
+2. **RazerHook Dosyası**: [RazerHook-Private-2.0.rar](https://github.com/RazerTeam/RazerHook/releases/download/razerhook/RazerHook-Private-2.0.rar) dosyasını indirin.
 3. **Dosya Çıkartma**: İndirilen rar dosyasını bir klasöre çıkartın.
 4. **Script Çalıştırma**: Çıkartılan dosyadaki klasörlerden dil tercihinizi yapıp sonu ".AHK" ile biten dosyaya çift tıklayarak çalıştırın.
 

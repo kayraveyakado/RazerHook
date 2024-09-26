@@ -36,7 +36,8 @@ Bu script, açık kaynaklıdır ve virüs içermez. Güvenliğiniz bizim için �
 ## Ekran Görüntüleri
 
 ![{7956F978-D079-4A6D-AC3A-437809321FD4}](https://github.com/user-attachments/assets/0f0c7553-4098-451f-a6f1-629703b62053)
-![{video}(https://github.com/user-attachments/assets/0897e42c-4e55-4062-ad59-04199d5ffb40)
+[![Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/180109272/371276892-0897e42c-4e55-4062-ad59-04199d5ffb40.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T184642Z&X-Amz-Expires=300&X-Amz-Signature=9cf6979b94806605de73ede89d83463d252e36949e099989facb83fd24f03968&X-Amz-SignedHeaders=host)]([https://www.youtube.com/watch?v=ek1j272iAmc](https://github-production-user-asset-6210df.s3.amazonaws.com/180109272/371276892-0897e42c-4e55-4062-ad59-04199d5ffb40.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T184642Z&X-Amz-Expires=300&X-Amz-Signature=9cf6979b94806605de73ede89d83463d252e36949e099989facb83fd24f03968&X-Amz-SignedHeaders=host))
+
 
 
 

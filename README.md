@@ -36,7 +36,7 @@ Bu script, açık kaynaklıdır ve virüs içermez. Güvenliğiniz bizim için �
 ## Ekran Görüntüleri
 
 ![{7956F978-D079-4A6D-AC3A-437809321FD4}](https://github.com/user-attachments/assets/0f0c7553-4098-451f-a6f1-629703b62053)
-[![Demo RazerHook](https://www.veed.io/view/a2bb5690-4ec3-414f-aab2-0703b9a0a96c?panel=share)](https://www.veed.io/view/a2bb5690-4ec3-414f-aab2-0703b9a0a96c?panel=share)
+<iframe src="https://streamable.com/e/fweubr" width="100%" height="100%" frameborder="0" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 
 

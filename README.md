@@ -36,7 +36,7 @@ Bu script, açık kaynaklıdır ve virüs içermez. Güvenliğiniz bizim için �
 ## Ekran Görüntüleri
 
 ![{7956F978-D079-4A6D-AC3A-437809321FD4}](https://github.com/user-attachments/assets/0f0c7553-4098-451f-a6f1-629703b62053)
-![{Demo Brother}](https://streamable.com/fweubr))
+
 
 
 

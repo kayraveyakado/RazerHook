@@ -32,7 +32,7 @@ Bu script, açık kaynaklıdır ve virüs içermez. Güvenliğiniz bizim için �
 1. Valorant oyununu başlatın.
 2. Oyun içindeki hedeflerinizin mor renkli olduğundan emin olun.
 3. Belirlenen tuşları kullanarak Triggerbot'un işlevlerini kontrol edin.
-4. Valorant Ayarlarından Raw In Buffer (Saf Girdi Süresi) Özelliğini Kapatın.
+4. Valorant Ayarlarından Raw Input Buffer (Saf Girdi Süresi) Özelliğini Kapatın.
 
 ## Ekran Görüntüleri
 
